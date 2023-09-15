@@ -1,12 +1,13 @@
 body
 {
-    color:#333;
+    color:#11e81c;
     text-align:center;
     font-family:arial;
     font-size:16px;
     margin:0;
     padding:0
-}#container
+}
+#container
 {
     width:70%;
     padding:1em;
