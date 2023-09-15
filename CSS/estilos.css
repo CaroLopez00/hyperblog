@@ -1,13 +1,5 @@
 body
 {
-<<<<<<< HEAD
-    color:#11e81c;
-    text-align:center;
-    font-family:arial;
-    font-size:16px;
-    margin:0;
-    padding:0
-=======
     color:#333;
     text-align:center;
     font-family:Arial;
@@ -27,16 +19,11 @@ body
     padding:0 0 0 1em;
     font-weight:400;
     font-size:.8em
->>>>>>> cabecera
 }
 #container
 {
     width:70%;
-<<<<<<< HEAD
-    padding:1em;
-=======
     padding:0;
->>>>>>> cabecera
     text-align:left;
     border:1px solid #ddd;
     margin:0 auto
@@ -45,11 +32,8 @@ body
 h1
 {
     font-size:20px
-<<<<<<< HEAD
-=======
 }
 #post
 {
     padding:1em
->>>>>>> cabecera
 }
